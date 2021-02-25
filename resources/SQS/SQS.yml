@@ -1,4 +1,7 @@
+#
 # Author: Patrick Glinski
+# SQS Developer Guide : https://docs.aws.amazon.com/AWSSimpleQueueService/latest/SQSDeveloperGuide/welcome.html
+# SQS Cloudformation Documentation: https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/aws-properties-sqs-queues.html
 # Description: CloudFormation Provisioning for SQS Queue
 #
 ---
